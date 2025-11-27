@@ -25,3 +25,6 @@
 	path = lib/lvgl
 	url = https://github.com/qmk/lvgl.git
 	branch = release/v8.2
+[submodule "keyboards/ferris/keymaps/MaxCarroll0"]
+	path = keyboards/ferris/keymaps/MaxCarroll0
+	url = git@github.com:MaxCarroll0/qmk_sweep.git
